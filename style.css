@@ -102,6 +102,29 @@ ul li a:hover::after{
 	transform: translate(-50%,-50%);
 	text-align: center;
 }
+.checkbtn{
+	font-size: 30px;
+	color: white;
+	float: right;
+	line-height: 80px;
+	margin-height: 40px;
+	cursor: pointer;
+	display: none;
+}
+#check{
+	display: none;
+}
+@media (max-width: 858px){
+	.checkbtn{
+		display: block;
+	}
+	ul{
+		position: fixed;
+		width: 100%;
+		height: 100vh;
+		background: #2c3e50;
+		top: 80px;
+	
 
 .text-box h1{
 	font-size: 62px;
