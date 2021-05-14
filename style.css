@@ -102,20 +102,7 @@ ul li a:hover::after{
 	transform: translate(-50%,-50%);
 	text-align: center;
 }
-.checkbtn{
-	font-size: 30px;
-	color: white;
-	float: right;
-	line-height: 80px;
-	margin-height: 40px;
-	cursor: pointer;
-	display: none;
-}
-#check{
-	display: none;
-}
 	
-
 .text-box h1{
 	font-size: 62px;
 }
