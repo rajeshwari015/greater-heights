@@ -102,9 +102,15 @@ ul li a:hover::after{
 	margin: 30px 0;
 }
 .facilities-sty h3 {
+	color: #fe4705;
+    font-weight: bold;
 }
 .facilities-sty ul {
+	float: none;
 }
 .facilities-sty ul li {
-	background: url(images/right-arrow.png) no-repeat left center;
+	    background: url(right-arrow.png) no-repeat left center;
+    padding-left: 23px;
+    margin-bottom: 10px;
+    display: block;
 }
