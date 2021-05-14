@@ -99,6 +99,20 @@ ul li a:hover::after{
 }
 
 /* Home Page Style */
+
+.about-sty {
+	margin: 30px 0;
+}
+.about-sty h3 {
+	color: #fe4705;
+    font-weight: bold;
+	text-align: center;
+}
+.about-sty p {
+	text-align: center;
+}
+
+
 .facilities-sty {
 	margin: 30px 0;
 }
