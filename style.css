@@ -105,6 +105,10 @@ ul li a:hover::after{
 .facilities-sty h3 {
 	color: #fe4705;
     font-weight: bold;
+	text-align: center;
+}
+.facilities-sty p {
+	text-align: center;
 }
 .facilities-sty ul {
 	float: none;
