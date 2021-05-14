@@ -151,6 +151,7 @@ ul li a:hover::after{
 
 .facilities-sty {
 	margin: 30px 0;
+	background-image: url("pink.jpg");
 }
 .facilities-sty h3 {
 	color: #fe4705;
