@@ -160,6 +160,16 @@ ul li a:hover::after{
 }
 
 
+.contact-sty {
+	margin: 30px 0;
+}
+.contact-sty h3 {
+	color: #fe4705;
+    font-weight: bold;
+	text-align: center;
+}
+
+
 /* Footer Style */
 
 .main-footer {
