@@ -132,3 +132,15 @@ ul li a:hover::after{
 .gallery-sty img {
 	margin-bottom:20px;
 }
+
+.campus-sty {
+	margin: 30px 0;
+}
+.campus-sty h3 {
+	color: #fe4705;
+    font-weight: bold;
+	text-align: center;
+}
+.campus-sty p {
+	text-align: center;
+}
