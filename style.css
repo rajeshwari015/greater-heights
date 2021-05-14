@@ -106,4 +106,5 @@ ul li a:hover::after{
 .facilities-sty ul {
 }
 .facilities-sty ul li {
+	background: url(images/right-arrow.png) no-repeat left center;
 }
