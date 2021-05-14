@@ -121,12 +121,13 @@ ul li a:hover::after{
 }
 
 .gallery-sty {
-	margin: 30px 0;
+	margin: 60px 0;
 }
 .gallery-sty h3 {
 	color: #fe4705;
     font-weight: bold;
 	text-align: center;
+	margin-bottom:25px;
 }
 .gallery-sty img {
 	margin-bottom:20px;
