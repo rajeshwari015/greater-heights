@@ -123,6 +123,7 @@ ul li a:hover::after{
 
 .about-sty {
 	margin: 30px 0;
+	background-image: url("yellow.svg");
 }
 .about-sty h3 {
 	color: #fe4705;
