@@ -119,3 +119,15 @@ ul li a:hover::after{
     margin-bottom: 10px;
     display: block;
 }
+
+.gallery-sty {
+	margin: 30px 0;
+}
+.gallery-sty h3 {
+	color: #fe4705;
+    font-weight: bold;
+	text-align: center;
+}
+.gallery-sty img {
+	margin-bottom:20px;
+}
