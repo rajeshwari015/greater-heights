@@ -163,6 +163,13 @@ ul li a:hover::after{
 /* Footer Style */
 
 .main-footer {
+	background: #0c5dd4;
+    text-align: center;
+    padding: 9px 0;
 }
 .main-footer p {
+	text-align: center !important;
+    color: #fff;
+    padding: 0;
+    margin: 0;
 }
